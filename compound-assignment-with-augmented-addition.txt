@@ -1,0 +1,9 @@
+let a = 3;
+let b = 17;
+let c = 12;
+
+// Only change code below this line
+a += a + 9;
+b += - 8 + b;
+c += c +- 5 ;
+console.log(a,b,c);
